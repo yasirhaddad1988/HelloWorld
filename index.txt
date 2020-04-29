@@ -1,0 +1,13 @@
+ Volume in drive C is OS
+ Volume Serial Number is 48C5-70CD
+
+ Directory of C:\Users\yasir\Desktop\A_lambda\prject1
+
+04/29/2020  12:39 PM    <DIR>          .
+04/29/2020  12:39 PM    <DIR>          ..
+04/29/2020  12:04 PM               468 Hello.class
+04/29/2020  10:38 AM               154 Hello.java
+04/29/2020  12:39 PM                 0 index.txt
+04/29/2020  12:35 PM               459 readme.txt
+               4 File(s)          1,081 bytes
+               2 Dir(s)  59,867,914,240 bytes free
